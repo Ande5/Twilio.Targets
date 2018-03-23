@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twilio.Targets", "Twilio.Targets\Twilio.Targets.csproj", "{A4A58142-F04F-41C0-B4DC-7622617FAF14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioTest", "TwilioTest\TwilioTest.csproj", "{B168BE32-A078-492A-885A-7DDA223092A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4A58142-F04F-41C0-B4DC-7622617FAF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A58142-F04F-41C0-B4DC-7622617FAF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A58142-F04F-41C0-B4DC-7622617FAF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A58142-F04F-41C0-B4DC-7622617FAF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B168BE32-A078-492A-885A-7DDA223092A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B168BE32-A078-492A-885A-7DDA223092A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B168BE32-A078-492A-885A-7DDA223092A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B168BE32-A078-492A-885A-7DDA223092A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
